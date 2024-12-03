@@ -6,6 +6,8 @@ Get your public key at `~/.ssh/*.pub`, and fill public key to `Github->Settings-
 ```Bash
 # If don't have a ssh public key, use kengen to generate one 
 ssh-keygen -t rsa -C "xxx@xxx.com"
+# Check availability
+ssh -T git@github.com
 ```
 
 ## Access Token

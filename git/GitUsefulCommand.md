@@ -19,6 +19,8 @@ git push
 ```
 
 ```Bash
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+git config --local/global user.email "you@example.com"
+git config --local/global user.name "Your Name"
+# List your config
+git config --local/global -l
 ```
