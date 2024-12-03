@@ -10,6 +10,8 @@ ssh-keygen -t rsa -C "xxx@xxx.com"
 ssh -T git@github.com
 # Please clone repo with SSH URL
 git clone git@github.com:your_account/repo.git
+# If you have already clone with a SSH URL, use this to change
+git remote set-url origin git@github.com:your_account/repo.git
 ```
 > If some SSH keys you do not use anymore, delete them at `Github Settings` to keep safety. 
 
