@@ -19,6 +19,7 @@ git push
 ```
 
 ```Bash
+# Change to your Github E-Mail and user name
 git config --local/global user.email "you@example.com"
 git config --local/global user.name "Your Name"
 # List your config
