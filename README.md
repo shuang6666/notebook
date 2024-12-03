@@ -14,6 +14,7 @@ This Notebook is writed by Milchigs, and this is available for everyone! Love & 
 ## Git
 
 - [Git Useful Command](./git/GitUsefulCommand.md)
+- [Github Auth Config](./git/GithubAuthConfig.md)
 
 ## Linux
 
