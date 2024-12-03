@@ -18,7 +18,9 @@ This Notebook is writed by Milchigs, and this is available for everyone! Love & 
 
 ## Linux
 
-## Other
+## Others
+
+- [Markdown Table](./others/MarkdownTable.md)
 
 ## Star History
 
